@@ -1,0 +1,11 @@
+{
+  "name": "cotaai",
+  "version": "1.0.0",
+  "description": "Pure Javascript currency app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artisan Sw",
+  "license": "ISC"
+}
