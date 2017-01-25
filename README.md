@@ -1,1 +1,6 @@
-"# Cotaa¡ | Cota‡Æo Real X Dolar" 
+## Cotaai
+--------------
+
+*Seu app para Cambio de Real(BRL) para Dolar(USD)*
+
+
